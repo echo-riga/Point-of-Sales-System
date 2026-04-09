@@ -1,6 +1,5 @@
 import express from "express";
 import { Client } from "pg"; // Add this import
-
 const router = express.Router();
 
 // PostgreSQL configuration (same as in server.js)
